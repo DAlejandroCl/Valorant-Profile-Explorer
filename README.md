@@ -23,7 +23,7 @@ Installation
 
 1. Clone the repository:
 
-        git clone https://github.com/DAlejandroCl/Valorant-Profile-Explorer/tree/main
+        git clone https://github.com/DAlejandroCl/Valorant-Profile-Explorer
 
 2. Navigate to the project directory:
 
